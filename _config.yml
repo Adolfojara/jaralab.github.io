@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Adolfo Jara / Laboratório de botánica sistemática y biogeografía"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Adolfo Jara"
 description              : &description "Botánico"
 url                      : https://Adolfojara.jaralab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
